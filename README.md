@@ -24,7 +24,7 @@ View/Add Students from the Student Menu![https://imgur.com/mzLBTe2]) [Student Me
 *Administrators can view or add students using the dropdown options on the main menu.
 
 ### Step 2:
-Add Student details ![Insert Student] [https://imgur.com/rmX80FO]
+Add Student details & Student marks per module ![Insert Student] [https://imgur.com/rmX80FO]
 Click Add Student button ![Insert Student] [https://imgur.com/zJ7bmXp]
 * The "Add Student" form, where administrators can enter student information and save it by clicking the "Add" button.
 
