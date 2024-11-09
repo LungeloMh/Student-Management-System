@@ -1,7 +1,7 @@
 # Student-Management-System
 
 ## Goal
-The goal of the Student Management System project was to make managing student data in an educational setting more efficient. This system, which was developed using Java, improves administrative efficiency by enabling the effective storage, retrieval, and manipulation of student records. This practical project gave participants experience developing Java applications and integrating databases.
+The goal of the Student Management System project was to make managing student data in an educational setting more efficient. This system, which was developed using Java, improves administrative efficiency by enabling the effective storage, retrieval, and manipulation of student records.
 
 ### Acquired Skills:
 - Effective application development using Java.
